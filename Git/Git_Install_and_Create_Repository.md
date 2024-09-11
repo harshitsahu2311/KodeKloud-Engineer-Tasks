@@ -22,4 +22,4 @@ sudo mkdir -p /opt/games.git && cd $_
 sudo git init
 ```
 
-[back](https://github.com/harshitsahu2311/KodeKloud-Engineer-Tasks/tree/main/Git)  
+[back](https://github.com/harshitsahu2311/KodeKloud-Engineer-Tasks)  
