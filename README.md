@@ -6,6 +6,7 @@ Here are all the tasks I completed as part of KodeKloud Engineer.
 
 ## 🐧 [Linux](Linux)
 - [x] [Custom_Apache_User_Setup](https://github.com/harshitsahu2311/KodeKloud-Engineer-Tasks/blob/main/Linux/Custom_Apache_User_Setup.md)
+- [x] [Group_Creation_and_User_Assignment](https://github.com/harshitsahu2311/KodeKloud-Engineer-Tasks/blob/main/Linux/Group_Creation_and_User_Assignment.md)
 
 
 ## 🐋 [Docker](Docker)
