@@ -22,7 +22,7 @@ Here are all the tasks I completed as part of KodeKloud Engineer.
 
 
 ## ☸️ [Kubernetes](Kubernetes)
-
+- [x] [Deploy_Pods_in_Kubernetes_Cluster](https://github.com/harshitsahu2311/KodeKloud-Engineer-Tasks/blob/main/Kubernetes/Deploy_Pods_in_Kubernetes_Cluster.md)
 
 ## :octocat: [Git](Git)
 - [x] [Git_Install_and_Create_Repository](https://github.com/harshitsahu2311/KodeKloud-Engineer-Tasks/blob/main/Git/Git_Install_and_Create_Repository.md)
