@@ -34,6 +34,7 @@ Here are all the tasks I completed as part of KodeKloud Engineer.
 
 ## 🚀 [Jenkins](Jenkins)
 - [x] [Set_up_jenkins_server](https://github.com/harshitsahu2311/KodeKloud-Engineer-Tasks/blob/main/Jenkins/Set_up_jenkins_server.md)
+- [x] [Install_Jenkins_Plugins](https://github.com/harshitsahu2311/KodeKloud-Engineer-Tasks/blob/main/Jenkins/Install_Jenkins_Plugins.md) 
 
 
 ## ⚙️ [Ansible](Ansible)
