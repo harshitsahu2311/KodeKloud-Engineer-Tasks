@@ -7,7 +7,8 @@ Here are all the tasks I completed as part of KodeKloud Engineer.
 ## 🐧 [Linux](Linux)
 - [x] [Custom_Apache_User_Setup](https://github.com/harshitsahu2311/KodeKloud-Engineer-Tasks/blob/main/Linux/Custom_Apache_User_Setup.md)
 - [x] [Group_Creation_and_User_Assignment](https://github.com/harshitsahu2311/KodeKloud-Engineer-Tasks/blob/main/Linux/Group_Creation_and_User_Assignment.md)
-- [x] [Linux_User_Setup_with_Non-Interactive_Shell](https://github.com/harshitsahu2311/KodeKloud-Engineer-Tasks/blob/main/Linux/Linux_User_Setup_with_Non-Interactive_Shell.md) 
+- [x] [Linux_User_Setup_with_Non-Interactive_Shell](https://github.com/harshitsahu2311/KodeKloud-Engineer-Tasks/blob/main/Linux/Linux_User_Setup_with_Non-Interactive_Shell.md)
+- [x] [Service_User_Creation_without_Home_Directory](https://github.com/harshitsahu2311/KodeKloud-Engineer-Tasks/blob/main/Linux/Service_User_Creation_without_Home_Directory.md) 
 
 
 ## 🐋 [Docker](Docker)
